@@ -1,0 +1,9 @@
+[submodule "ai_generate_service"]
+	url = git@github.com:PLATnya/gen-ai-search-suggest-service.git
+	path = ai_generate_service
+[submodule "search_service"]
+	path = search_service
+	url = git@github.com:PLATnya/search-microservice.git
+[submodule "front_app"]
+	path = front_app
+	url = git@github.com:PLATnya/advanced-search-front.git
